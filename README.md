@@ -57,7 +57,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 Developed by:RAJESHWARI M
 Ref no:24900813
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/7ce1e8e2-594e-426e-81b6-d2c3191cb63e" />
+<img width="552" alt="image" src="https://github.com/user-attachments/assets/8e78597f-3a2e-4e1c-bd65-3ec6ad67bd9e" />
+
 
 
 
