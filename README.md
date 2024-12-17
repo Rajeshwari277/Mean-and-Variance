@@ -54,9 +54,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+Developed by:RAJESHWARI.M
+Register no:24900813
 
-Developed by:RAJESHWARI M
-Ref no:24900813
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/8e78597f-3a2e-4e1c-bd65-3ec6ad67bd9e" />
 
 
@@ -64,6 +64,7 @@ Ref no:24900813
 
 
 # Output : 
+
 <img width="432" alt="image" src="https://github.com/user-attachments/assets/c6f65f80-cf20-4e5b-9430-2d2f6fa4f7a8" />
 
 
